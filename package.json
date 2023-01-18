@@ -1,0 +1,25 @@
+{
+  "name": "oyunbotu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jesu.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertjson/oyunbotu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertjson/oyunbotu/issues"
+  },
+  "homepage": "https://github.com/mertjson/oyunbotu#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  }
+}
